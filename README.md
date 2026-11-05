@@ -19,10 +19,9 @@ E-commerce-MFQ-Test-Plan/
 ├── README.md               # 项目介绍、MFQ 理解、目录结构
 ├── Strategy_Note.md        # 1 页策略说明：优先级与取舍
 ├── Test_Plan_MFQ.md        # 主体答案：MFQ 完整测试计划（含用例树、优先级、预期结果）
-├── Test_Plan_MFQ.xmind     # 同内容的思维导图（MFQ 三层清晰结构）
-└── assets/                 # 文档配图
-    ├── order-lifecycle.png       # 订单生命周期状态机
-    └── inventory-state-model.png # 库存状态模型与不变式
+├── Test_Plan_MFQ.xmind     # 同内容的思维导图（MFQ 三层清晰结构）        
+├── order-lifecycle.png       # 订单生命周期状态机
+└── inventory-state-model.png # 库存状态模型与不变式
 ```
 
 ## 快速浏览
@@ -37,5 +36,4 @@ E-commerce-MFQ-Test-Plan/
 2. **异常处理与补偿策略**（第 6 章）：7 类异常的"检测 → 即时处理 → 补偿 → 兜底"闭环
 3. **发布准入/退出标准**（第 7 章）：资损类 P0 一票否决 + 灰度观察期达标线
 
----
-*文档版本 v1.0 | 2026-11-05*
+
